@@ -5,7 +5,7 @@
 1. setup.sh: This is the bash file or the main file that executes the entire project.
 2. rag_implement_ontology.py: This python file contains functions such as text splitting, ontology generation, storing text in vector store and retrieving data for 
    implementing RAG application.
-3. npm_requirements.txt: This txt file contains library for hosting the strealit app. In our case, it is localtunnel.
+3. npm_requirements.txt: This txt file contains library for hosting the strealit app. In my case, it is localtunnel.
 4. ollama_install_helper_module.py: This python file contains function used for executing terminal commands.
 5. requirements.txt: This txt file contains libraries used in the project.
 6. app.py: This python file contains the code for UI using streamlit.
@@ -14,7 +14,7 @@
 
 1. Execute the main bash file(setup.sh) in the terminal using the following command:
    
-     **bash setup.sh**
+    <code>bash setup.sh</code>
    
    This will install all the dependencies in requirements.txt , npm_requirements.txt and Ollama. Further, it will also run the streamlit app via localtunnel server     and generate the link where the streamlit is 
    hosted.
