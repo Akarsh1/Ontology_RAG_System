@@ -29,4 +29,7 @@
 
    
 4. After clicking on the link, paste the password and proceed. The streamlit app opens and lets you interact with the application.
+
+   ![image](https://github.com/user-attachments/assets/89574ef9-d1ca-4367-8312-345e66d329ee)
+
    
