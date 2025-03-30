@@ -19,7 +19,7 @@
    This will install all the dependencies in requirements.txt , npm_requirements.txt and Ollama. Further, it will also run the streamlit app via localtunnel server     and generate the link where the streamlit is 
    hosted.
    
-   _**Note:** The installation can take some time. Further, it will also take time to generate ontologies for the text chunks depending on the GPU._
+   ```_**Note:** The installation can take some time. Further, it will also take time to generate ontologies for the text chunks depending on the GPU._```
    
 2. During running of the setup.sh script, the local tunnel password will be generated.
      Example: Password: 25.21.14.0
