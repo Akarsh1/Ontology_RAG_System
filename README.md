@@ -1,6 +1,6 @@
 # Ontology Creation and Gneneration using RAG.
 
-## Details of the files in the project:
+#### Details of the files in the project:
 
 1. setup.sh: This is the bash file or the main file that executes the entire project.
 2. rag_implement_ontology.py: This python file contains functions such as text splitting, ontology generation, storing text in vector store and retrieving data for 
