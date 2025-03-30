@@ -1,4 +1,4 @@
-# Ontology Creation and Gneneration using RAG.
+# Ontology Creation and Generation using RAG.
 
 #### Details of the files in the project:
 
