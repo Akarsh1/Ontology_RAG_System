@@ -28,8 +28,11 @@
      ![image](https://github.com/user-attachments/assets/cde3e3e6-e00d-4d82-89bc-20f101b9ad80)
 
    
-4. After clicking on the link, paste the password and proceed. The streamlit app opens and lets you interact with the application.
+3. After clicking on the link, paste the password and proceed. The streamlit app opens and lets you interact with the application.
 
    ![image](https://github.com/user-attachments/assets/89574ef9-d1ca-4367-8312-345e66d329ee)
+
+   ![image](https://github.com/user-attachments/assets/56b618b1-90c9-4bc2-a5a7-8911c7003f3b)
+
 
    
